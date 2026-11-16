@@ -26,5 +26,7 @@ A minimal Telegram bot built with `pyTelegramBotAPI` and OpenAI.
 <img width="397" height="74" alt="image" src="https://github.com/user-attachments/assets/d0daebaf-793b-44f8-9818-c3584c35a4b7" />
 
 - example of `i want to talk to ai`, `bye`:
+
+  
   <img width="387" height="560" alt="image" src="https://github.com/user-attachments/assets/b9d19fdc-8955-4a1f-9ccd-96edbd6c4857" />
 
